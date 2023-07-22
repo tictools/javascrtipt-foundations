@@ -1,0 +1,10 @@
+### macOS ###
+# General
+.DS_Store
+
+# Coverage 
+coverage
+*.lcov
+
+# Dependency directories
+node_modules/
