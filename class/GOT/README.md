@@ -1,6 +1,6 @@
 # Game Of Thrones classes exercise
 
-<div style="border: 1px solid #323330; border-radius: 4px; padding: 8px">You will create a class structure in JS that reflects the following data model</div>
+You will create a class structure in JS that reflects the following data model.
 
 In Game of Thrones there are characters. All those characters have the following information:
 
