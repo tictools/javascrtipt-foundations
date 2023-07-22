@@ -15,10 +15,13 @@ In Game of Thrones there are characters. All those characters have the following
 ## Behaviours
 
 - All the characters belong to the same series, "Game of Thrones".
-- All characters can take the communicate action, but each type of character (not each character) communicates in a different way. Note: this method returns the string with the phrase, it does not print to the console.
-  \*Each of those characters can be a `king`, a `fighter`, an `adviser`, or a `squire`.
+- All characters can take the communicate action
+  - each type of character (not each character) communicates in a different way.
+  - this method returns the string with the phrase, it does not print to the console.
 
 ## Characters
+
+Each of those characters can be a `king`, a `fighter`, an `adviser`, or a `squire`.
 
 ### King
 
