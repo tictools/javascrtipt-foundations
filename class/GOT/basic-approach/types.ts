@@ -1,4 +1,4 @@
-import Adviser from "./basic-approach/Adviser";
+import Adviser from "./Adviser";
 import Fighter from "./Fighter";
 import King from "./King";
 import Squire from "./Squire";
