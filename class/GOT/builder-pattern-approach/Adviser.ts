@@ -1,5 +1,6 @@
+// import type { Serving } from "../basic-approach/types";
 import Character from "./Character";
-import type { Serving } from "./types";
+import { Serving } from "./types";
 
 class Adviser extends Character {
   serving: Serving;
