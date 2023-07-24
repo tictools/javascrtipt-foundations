@@ -1,4 +1,3 @@
-// import type { Serving } from "../basic-approach/types";
 import Character from "./Character";
 import { Serving } from "./types";
 

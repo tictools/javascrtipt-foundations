@@ -4,10 +4,6 @@ import King from "./King";
 class KingBuilder extends CharacterBuilder {
   private yeasrsOfReign: number = 0;
 
-  constructor(name: string) {
-    super(name);
-  }
-
   private getYearsOfReign() {
     return this.yeasrsOfReign;
   }

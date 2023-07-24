@@ -5,10 +5,6 @@ class FigtherBuilder extends CharacterBuilder {
   private weapon: string = "";
   private dexterity: number = 0;
 
-  constructor(name: string) {
-    super(name);
-  }
-
   private getWeapon() {
     return this.weapon;
   }
